@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on web development projects.
 - 🤔 I’m looking for help with finding job opportunities and enhancing my DevOps practices.
 - 💬 Ask me about JavaScript, TypeScript, Angular, ReactJS, PHP, and Java.
-- 📫 How to reach me: francomanuelceballos@gmail.com or francoceballos@skiff.com .
+- 📫 How to reach me: francomanuelceballos@gmail.com.
 
 ### 🛠️ Languages and Tools
 
