@@ -32,11 +32,11 @@
 
 ### 📈 GitHub Stats
 
-![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francomceballos&show_icons=true&theme=radical)
+![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=franceballosdev&show_icons=true&theme=radical)
 
 ### 📊 Language Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francomceballos&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franceballosdev&layout=compact&theme=radical)
 
 ---
 
